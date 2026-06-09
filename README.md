@@ -41,7 +41,7 @@ This project detects whether a news article is Fake or Real using Machine Learni
 3. Run application:
     python app.py
 4. Open browser:
-    http://127.0.0.1:5000
+    https://sreya1629-fake-news-detector.hf.space
 
 
 ---
